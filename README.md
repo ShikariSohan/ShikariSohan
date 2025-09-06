@@ -5,6 +5,8 @@ Welcome to ShikariSohan profile! Just a quick overview of what's here, more orga
 src="https://img.shields.io/github/followers/shikarisohan?logo=github&style=for-the-badge&color=facc15&labelColor=0f172a" /></a>
 
 ## ✍️ Featured Blogs (because apparently, I write sometimes):
+- [How I Discovered Java's Most Famous Inside Joke](https://dev.to/shikarisohan/how-i-discovered-javas-most-famous-inside-joke-3jfi) - A fun easter egg in java class.
+- [Simple vs. Preflighted Requests in CORS: What Developers Need to Know](https://dev.to/shikarisohan/simple-vs-preflighted-requests-in-cors-what-developers-need-to-know-276n) - Let’s Send a PUT Request and Inspect the Network Tab.
 - [Google Chrome Won’t Open After a Hostname Change? Fix It With This One Line Command!](https://dev.to/shikarisohan/google-chrome-wont-open-after-a-hostname-change-fix-it-with-this-one-line-command-1k4d) - The Chrome Crash That Caught Me Off Guard 🚨
 - [How I merged Five Pull Requests, Lose Sanity, and Laugh It Off](https://dev.to/shikarisohan/how-i-merged-five-pull-requests-lose-sanity-and-laugh-it-off-1edo) - **aka** my Hacktoberfest 2024 journey with LOTS of “learning opportunities” 🐛✨
 - [Java Reflection: A Dynamic Twist in the World of OOP](https://medium.com/p/d8bd04608775) - Some technical stuff if you’re into that kinda thing. 💻📚
